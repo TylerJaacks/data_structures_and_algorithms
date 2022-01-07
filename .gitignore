@@ -9,3 +9,5 @@
 /data_structures_and_algorithms/cmake_install.cmake
 /data_structures_and_algorithms/CMakeFiles/
 /CMakeFiles/
+/.cmake/api/v1/
+/Testing/Temporary/
